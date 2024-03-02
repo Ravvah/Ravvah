@@ -24,7 +24,7 @@ Pytorch - sklearn - transformers - langchain
 
 <h5 align="left">Software tools :</h5>
 
-Docker - Kubernetes - Git - Talend - Google BigQuery - Power BI
+Docker - Kubernetes - Git - Talend - Power BI
 
 
 
