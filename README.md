@@ -2,7 +2,7 @@
 
 <h3 align="left">I'm a Data/BI student at Paris-Saclay University (Orsay) and also an apprentice R&D IA Scientist at Dassault Systèmes </h3>
 
-- I'm working on **Deep Learning** and particularly **Large Language Models** in **Generative AI**
+- I'm working on **NLP** and particularly **Large Language Models** in **Generative AI**
 
 - You can find some of my projects on **my GitHub ⬇️**
 
