@@ -12,7 +12,7 @@
 </p>
 
 <h5 align="left">IA Fundamentals :</h5>
-Advanced Statistics ( Tests - Bayesian Estimation ) - NLP ( Text Mining - LLM RAG pipelines )
+Advanced Statistics ( Tests - Bayesian Estimation ) - NLP ( Text Mining - LLM RAG pipelines - LLM evaluation ) - Classical Machine Learning
 
 <h5 align="left">Languages :</h5>
 
