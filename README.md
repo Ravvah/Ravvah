@@ -12,7 +12,7 @@
 </p>
 
 <h5 align="left">IA Fundamentals :</h5>
-Advanced Statistics ( Tests - Bayesian Estimation - Kernel Estimation) - Optimisation ( Gradient algorithms - Dimensional reduction - Hyperparameters tuning - Quantization) - Operational Research ( Dynamic programming - Games )
+Advanced Statistics ( Tests - Bayesian Estimation ) - NLP ( Text Mining - LLM RAG pipelines )
 
 <h5 align="left">Languages :</h5>
 
@@ -24,7 +24,7 @@ Pytorch - sklearn - transformers - langchain
 
 <h5 align="left">Software tools :</h5>
 
-Docker - Kubernetes - Git - Talend - Power BI
+SPRING BOOT - FASTAPI - Docker - Kubernetes - Git - Talend - Power BI
 
 
 
