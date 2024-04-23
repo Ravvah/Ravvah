@@ -16,7 +16,7 @@ Advanced Statistics ( Tests - Bayesian Estimation ) - NLP ( Text Mining - LLM RA
 
 <h5 align="left">Languages :</h5>
 
-Python - Java - SQL - R 
+Python - Java - SQL
 
 <h5 align="left">IA frameworks :</h5>
 
