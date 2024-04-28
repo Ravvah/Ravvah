@@ -1,6 +1,6 @@
 <h1 align="center"> Welcome I'm Rabah ACHOUR </h1>
 
-<h3 align="left">I'm a Data/BI student at Paris-Saclay University (Orsay) and also an apprentice R&D IA Scientist at Dassault Systèmes </h3>
+<h3 align="left">I'm a Data science/BI student at Paris-Saclay University (Orsay) and also an apprentice R&D IA Scientist at Dassault Systèmes </h3>
 
 - I'm working on **NLP** and particularly tasks that use **Large Language Models** for **Text Generation**, **Context Retrieving** ...etc
 
