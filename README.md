@@ -28,7 +28,8 @@ SPRING BOOT - FASTAPI - Docker - Kubernetes - Git - Talend - Power BI
 
 <h5 align="left">In progress ... :</h5>
 
-Classification and Regression theory (estimation, probabilistic perspective for some decisions in classic ML pipelines...)\n
+Classification and Regression theory (estimation, probabilistic perspective for some decisions in classic ML pipelines...) - Knowledge graphs in NLP tasks
+
 Knowledge graphs in NLP tasks
 
 
