@@ -20,7 +20,7 @@ Python - Java - SQL
 
 <h5 align="left">IA frameworks :</h5>
 
-Pytorch - sklearn - transformers - langchain
+Pytorch - sklearn - transformers - langchain - llamaindex
 
 <h5 align="left">Software tools :</h5>
 
