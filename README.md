@@ -12,7 +12,7 @@
 </p>
 
 <h5 align="left">IA Fundamentals :</h5>
-Advanced Statistics ( Tests - Bayesian Estimation ) - NLP ( Text Mining - LLM RAG pipelines - LLM evaluation ) - Classical Machine Learning
+Advanced Statistics ( Tests - Bayesian Estimation ) - NLP ( Text Mining - LLM RAG pipelines ) - Classical ML algorithms
 
 <h5 align="left">Languages :</h5>
 
@@ -26,6 +26,9 @@ Pytorch - sklearn - transformers - langchain - llamaindex
 
 SPRING BOOT - FASTAPI - Docker - Kubernetes - Git - Talend - Power BI
 
+<h5 align="left">In progress ... :</h5>
+
+Classification and Regression theory (estimation, probabilistic perspective for some decisions in classic ML pipelines...)
 
 
 <h3 align="left">See you soon ! </h3>
