@@ -10,7 +10,7 @@
 
 <h3 align="left">Connect with me (mail : firstname.lastname@universite-paris-saclay.fr):</h3>
 <p align="left">
-<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rabah achour" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/rabah-achour-594335239" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rabah achour" height="30" width="40" /></a>
 </p>
 
 <h5 align="left">AI Fundamentals :</h5>
