@@ -27,6 +27,7 @@ Pytorch - scikitlearn - transformers - langchain - llamaindex
 <h5 align="left">Software engineering :</h5>
 
 Microservice Patterns - Relational and Vector Databases - Decisionnal Information System Patterns (ETL pipelines, Data warehouses)
+
 Tools : SPRING BOOT - FASTAPI - Docker - Kubernetes - Git - Talend - Power BI
 
 <h5 align="left">In progress ... :</h5>
