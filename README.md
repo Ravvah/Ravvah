@@ -14,7 +14,7 @@
 </p>
 
 <h5 align="left">AI Fundamentals :</h5>
-Advanced Statistics ( Tests - Bayesian Estimation ) - NLP ( Text Mining - LLM RAG pipelines ) - Classical ML algorithms
+Advanced Statistics ( Frequentist estimation - Bayesian estimation ) - Data mining ( Dimensionnal reduction algorithms, Clustering ) - NLP ( Text Mining - LLMs pipelines ) - Classical ML algorithms
 
 <h5 align="left">Languages :</h5>
 
@@ -32,7 +32,6 @@ Tools : SPRING BOOT - FASTAPI - Docker - Kubernetes - Git - Talend - Power BI
 
 <h5 align="left">In progress ... :</h5>
 
-Classification and Regression theory (estimation, probabilistic perspective for some decisions in classic ML pipelines...) - Knowledge graphs in NLP tasks
-
+Interpretability in Classification and Regression approachs (LIME methods, interpretability plots, SHAP explanations ... )
 
 <h3 align="left">See you soon ! </h3>
