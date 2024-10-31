@@ -4,7 +4,7 @@
 
 - I put my interest on decision methods for information systems, especially on statistics and machine learning  
 
-- In my apprenticeship, i'm working on **NLP** and particularly tasks that use **Large Language Models** for **Text Generation**, **Code Correction**, **Prompt engineering** in automated program repair (APR)
+- In my apprenticeship, i'm working on **NLP** and particularly tasks that use **Large Language Models** for **Text Generation**, **Code Correction**, **Prompt engineering** in automated program repair (APR). It's used for **AI coding assistants**.
 
 - You can find some of my projects on **my GitHub ⬇️**
 
