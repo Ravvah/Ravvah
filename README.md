@@ -1,10 +1,10 @@
 <h1 align="center"> Welcome I'm Rabah ACHOUR </h1>
 
-<h3 align="left">I'm a Data science/BI student at Paris-Saclay University (Orsay) and an apprentice R&D AI Scientist at Dassault Systèmes </h3>
+<h3 align="left">I'm a Data science/BI student at Paris-Saclay University (Orsay) and an R&D Data Scientist apprentice at Dassault Systèmes </h3>
 
-- I put my interest on decision methods for Information Systems, especially on LLMs and Business Intelligence 
+- I put my interest on decisionnal methods for Information Systems, especially on LLMs and Business Intelligence 
 
-- In my apprenticeship, i'm working on tasks that use **Large Language Models** for **Text Generation**, **Code Correction**, **Prompt engineering** in automated program repair (APR). It's used for **AI coding assistants**. 
+- In my apprenticeship, i'm working on tasks that use **Large Language Models** for **Code Generation**, **Prompt engineering** in automated program repair (APR), like code-based **RAG**. It's used for **AI coding assistants**. 
 
 - For now, my Github is on building...
 You can will find some of my projects on **my GitHub ⬇️** 
@@ -18,11 +18,13 @@ You can will find some of my projects on **my GitHub ⬇️**
 
 Python - Java - SQL
 
+<h5 align="left">Data engineering :</h5>
+
+MapReduce - Decisionnal Information System Patterns (ETL pipelines, Data warehouses) - Relational and Vector Databases -  Talend - Power BI
+
 <h5 align="left">Software engineering :</h5>
 
-Microservice Patterns - Relational and Vector Databases - Decisionnal Information System Patterns (ETL pipelines, Data warehouses)
-
-Tools : SPRING BOOT - FASTAPI - Docker - Kubernetes - Git - Talend - Power BI
+Microservice Patterns - Docker - SPRING BOOT
 
 <h5 align="left">In exploration ... :</h5>
 
