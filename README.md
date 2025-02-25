@@ -4,10 +4,9 @@
 
 - I put my interest on decisionnal methods for Information Systems, especially on LLMs and Business Intelligence 
 
-- In my apprenticeship, i'm working on tasks that use **Large Language Models** for **Code Generation**, **Prompt engineering** in automated program repair (APR), like code-based **RAG**. It's used for **AI coding assistants**. 
+- In my apprenticeship, i'm working on tasks that use **Large Language Models** for Code Generation in automated program repair (APR), like code-based **RAG**. It's used for **AI coding assistants**. 
 
-- For now, my Github is on building...
-You can will find some of my projects on **my GitHub ⬇️** 
+- For now, my Github is on building... You will find some of my projects on it.
 
 <h3 align="left">Connect with me (mail : firstname.lastname@universite-paris-saclay.fr):</h3>
 <p align="left">
