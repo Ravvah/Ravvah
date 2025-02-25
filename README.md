@@ -19,7 +19,7 @@ Python - Java - SQL
 
 <h5 align="left">Data engineering :</h5>
 
-MapReduce - Decisionnal Information System Patterns (ETL pipelines, Data warehouses) - Relational and Vector Databases -  Talend - Power BI
+Decisionnal Information System Patterns (ETL pipelines, Data warehouses) - Relational and Vector Databases - MapReduce - Talend - Power BI
 
 <h5 align="left">Software engineering :</h5>
 
