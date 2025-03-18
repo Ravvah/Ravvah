@@ -2,9 +2,9 @@
 
 <h3 align="left">I'm a Data science/BI student at Paris-Saclay University (Orsay) and an R&D Data Scientist apprentice at Dassault Systèmes </h3>
 
-- I put my interest on decisionnal methods for Information Systems, especially on LLMs and Business Intelligence 
+- I put my interest on decisionnal methods for Information Systems, especially on Generative AI and Business Intelligence 
 
-- In my apprenticeship, i'm working on tasks that use **Large Language Models** for Code Generation in automated program repair (APR), like code-based **RAG**. It's used for **AI coding assistants**. 
+- In my apprenticeship, i'm working on tasks that use **Large Language Models** for Code engineering in automated program repair (APR), like **agents** and code-based **RAG**. We implement intern **AI coding assistants**. 
 
 - For now, my Github is on building... You will find some of my projects on it.
 
@@ -19,7 +19,7 @@ Python - Java - SQL
 
 <h5 align="left">Data engineering :</h5>
 
-Decisionnal Information System Patterns (ETL pipelines, Data warehouses) - Relational and Vector Databases - Spark - Talend - Power BI
+Decisionnal Information System Patterns - Data pipelines - Spark - Talend - Power BI
 
 <h5 align="left">Software engineering :</h5>
 
