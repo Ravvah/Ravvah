@@ -4,7 +4,7 @@
 
 - I put my interest on decisionnal methods and automation for Information Systems, especially on Generative AI and Business Intelligence 
 
-- In my apprenticeship, i'm working on tasks that use **Large Language Models** for Code engineering in automated program repair (APR), like **agents** and code-based **RAG**. We implement intern **AI coding assistants** to help IT teams, with Python and Generative AI frameworks like **Transformers**, **Langchain**, **PGVector**, **LlamaIndex** 
+- In my apprenticeship, i'm working on tasks that use **Large Language Models** for Code engineering in automated program repair (APR), like **agents** and code-based **RAG**. We implement intern **AI coding assistants** to help IT teams, with **Python** and Generative AI frameworks like **Transformers**, **Langchain**, **PGVector**, **LlamaIndex**. It's industrialized using **REST APIs**  
 
 - For now, my Github is on building... You will find some of my projects on it.
 
