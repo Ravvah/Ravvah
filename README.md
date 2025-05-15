@@ -8,7 +8,7 @@
 
 - For now, my Github is on building... You will find some of my projects on it.
 
-<h3 align="left">Connect with me (mail : firstnamelastname36@gmail.com):</h3>
+<h3 align="left">Connect with me (mail : LastnameFirstname36@gmail.com):</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/rabah-achour-594335239" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rabah achour" height="30" width="40" /></a>
 
