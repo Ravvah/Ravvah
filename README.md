@@ -2,13 +2,13 @@
 
 <h3 align="left">I'm a Data science/BI student at Paris-Saclay University (Orsay) and an R&D Data Scientist apprentice at Dassault Systèmes </h3>
 
-- I put my interest on decisionnal methods for Information Systems, especially on Generative AI and Business Intelligence 
+- I put my interest on decisionnal methods and automation for Information Systems, especially on Generative AI and Business Intelligence 
 
-- In my apprenticeship, i'm working on tasks that use **Large Language Models** for Code engineering in automated program repair (APR), like **agents** and code-based **RAG**. We implement intern **AI coding assistants**. 
+- In my apprenticeship, i'm working on tasks that use **Large Language Models** for Code engineering in automated program repair (APR), like **agents** and code-based **RAG**. We implement intern **AI coding assistants** to help IT teams. 
 
 - For now, my Github is on building... You will find some of my projects on it.
 
-<h3 align="left">Connect with me (mail : firstname.lastname@universite-paris-saclay.fr):</h3>
+<h3 align="left">Connect with me (mail : firstnamelastname36@gmail.com):</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/rabah-achour-594335239" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rabah achour" height="30" width="40" /></a>
 
