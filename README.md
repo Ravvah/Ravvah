@@ -4,8 +4,6 @@
 
 - I put my interest on decisionnal methods in Information Systems, especially Data Mining and Operation Research.
 
-- In my apprenticeship, i worked on the **Data management** of projects that use **Large Language Models** for Code engineering in automated program repair (APR), like code-based **RAG**. It requires identification of the good data, data analytics to choose the best metadata to include in embeddings and intelligent transformation of source code as a data for LLM context.
-
 - For now, my Github is on building... You will find some of my projects on it.
 
 <h3 align="left">Connect with me (mail : LastnameFirstname36@gmail.com):</h3>
@@ -19,7 +17,7 @@ Python - SQL - R - SPARK
 
 <h5 align="left">Data Mining :</h5>
 
-PCA - Clustering - Linear Models - Multivariate Analysis - Bagging Methods
+PCA - Clustering - Linear Models - Multivariate Analysis
 
 <h5 align="left">Operation Research :</h5>
 
