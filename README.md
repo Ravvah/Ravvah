@@ -1,10 +1,10 @@
 <h1 align="center"> Welcome I'm Rabah ACHOUR </h1>
 
-<h3 align="left">I'm a Data science student at Paris-Saclay University (Orsay)</h3>
+<h3 align="left">I'm a Data science Graduate Student at Paris-Saclay University | Specializing in Decision Sciences </h3>
 
 - I put my interest on decisionnal methods in Information Systems, especially Data Mining and Operation Research.
 
-- For now, my Github is on building... You will find some of my projects on it.
+- You will find **my personal projects** here.
 
 <h3 align="left">Connect with me (mail : LastnameFirstname36@gmail.com):</h3>
 <p align="left">
@@ -17,14 +17,18 @@ Python - SQL - R - SPARK
 
 <h5 align="left">Data Mining :</h5>
 
-PCA - Clustering - Linear Models - Multivariate Analysis
+Descriptive Statistics - Clustering - Linear Models - High Dimensional Analysis
 
-<h5 align="left">Operation Research :</h5>
+<h5 align="left">Machine Learning :</h5>
 
-Gradient Descent Methods - Linear Programming - Decision in Uncertainty
+Bagging and Boosting Methods - Bayesian Networks
+
+<h5 align="left">Optimization :</h5>
+
+Gradient Descent Methods - Linear Programming - Decision in Uncertainty - Constrainted Programming 
 
 <h5 align="left">Software engineering :</h5>
 
-Microservice Patterns - Docker
+Microservice Design Patterns - Docker
 
 <h3 align="left">See you soon ! </h3>
