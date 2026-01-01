@@ -1,6 +1,6 @@
 <h1 align="center"> Welcome I'm Rabah ACHOUR </h1>
 
-<h3 align="left">I'm a Data science Graduate Student at Paris-Saclay University | Specializing in Decision Sciences </h3>
+<h3 align="left">I'm a Data science Graduate Student at Paris-Saclay University | Specialized in Decisionnal Information Systems </h3>
 
 - I put my interest on Methods for Decisional Scope in Information Systems, especially Data Mining and Operation Research.
 
