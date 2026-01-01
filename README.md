@@ -2,7 +2,7 @@
 
 <h3 align="left">I'm a Data science Graduate Student at Paris-Saclay University | Specializing in Decision Sciences </h3>
 
-- I put my interest on decisionnal methods in Information Systems, especially Data Mining and Operation Research.
+- I put my interest on Methods for Decisional Scope in Information Systems, especially Data Mining and Operation Research.
 
 - You will find **my personal projects** here.
 
@@ -13,22 +13,10 @@
 
 <h5 align="left">Languages :</h5>
 
-Python - SQL - R - SPARK
+Python - SQL - R
 
-<h5 align="left">Data Mining :</h5>
+<h5 align="left">Current Interest :</h5>
 
-Descriptive Statistics - Clustering - Linear Models - High Dimensional Analysis
-
-<h5 align="left">Machine Learning :</h5>
-
-Bagging and Boosting Methods - Bayesian Networks
-
-<h5 align="left">Optimization :</h5>
-
-Gradient Descent Methods - Linear Programming - Decision in Uncertainty - Constrainted Programming 
-
-<h5 align="left">Software engineering :</h5>
-
-Microservice Design Patterns - Docker
+Bayesian Networks - High Dimensional Analysis
 
 <h3 align="left">See you soon ! </h3>
