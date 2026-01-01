@@ -18,5 +18,3 @@ Python - SQL - R
 <h5 align="left">Current Interest :</h5>
 
 Bayesian Networks - High Dimensional Analysis
-
-<h3 align="left">See you soon ! </h3>
