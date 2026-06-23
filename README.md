@@ -17,4 +17,4 @@ Python - SQL - R
 
 <h5 align="left">Current Interest :</h5>
 
-Bayesian Networks - High Dimensional Analysis
+Bayesian Networks - Early Project Effort Forecasting 
