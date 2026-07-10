@@ -1,8 +1,8 @@
 <h1 align="center"> Welcome I'm Rabah ACHOUR </h1>
 
-<h3 align="left">I'm an Applied Mathematics Graduate Student at Paris-Saclay/Paris-Cité University | Specialized in Data science for Decisional Support Systems </h3>
+<h3 align="left">I'm an Applied Mathematics & Computer Science Graduate Student at Paris-Saclay/Paris-Cité University | Specialized in Data science for Decisional Support Systems </h3>
 
-- I put my interest on Methods for Decisional Scope in Information Systems, especially Data Mining and Operation Research.
+- I put my interest on Methods for Decisional Scope in Information Systems, especially Predictive Analytics, Information Retrieval & Operation Research.
 
 - You will find **my personal projects** here.
 
@@ -13,8 +13,8 @@
 
 <h5 align="left">Languages :</h5>
 
-Python - SQL - R
+Python - SQL - SPARQL - R
 
 <h5 align="left">Current Interest :</h5>
 
-Bayesian Networks - Early Project Effort Forecasting 
+Bayesian Networks - Knowledge Graphs for Langage Models
