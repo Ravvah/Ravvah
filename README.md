@@ -1,6 +1,6 @@
-<h2 align="center"> My Curiosity </h2>
+<h2> My Curiosity </h2>
 
-- Interested on Decision Making in Applied Business Cases through Statistical Learning, Predict-and-Optimize Systems, Data-Driven Decision Reliability and Information Retrieval Systems.
+Interested on Decision Making in Applied Business Cases through Statistical Learning, Predict-and-Optimize Systems, Data-Driven Decision Reliability and Information Retrieval Systems.
 
 
 <h3 align="left">Connect with me (mail : LastnameFirstname36@gmail.com):</h3>
